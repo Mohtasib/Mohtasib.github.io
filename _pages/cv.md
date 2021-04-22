@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechatronics Engineering, Palestine Polytechnic University, Hebron, Palestine, 2012
+* M.S. in Embedded Systems, University of Essex, Colchester, UK 2015
+* Ph.D in Computer Science, University of Lincoln, Lincoln, UK 2021 (expected)
 
 Work experience
 ======
